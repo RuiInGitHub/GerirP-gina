@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Projectos_Studio_2022\\BDFatima\\GerirP\u00E1gina\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47E28669-71A8-422C-BD07-4D6D310C9A7C}|GerirP\u00E1gina.vbproj|h:\\projectos_studio_2022\\bdfatima\\gerirp\u00E1gina\\frmgerirdadosp\u00E1gina.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{47E28669-71A8-422C-BD07-4D6D310C9A7C}|GerirP\u00E1gina.vbproj|solutionrelative:frmgerirdadosp\u00E1gina.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E28669-71A8-422C-BD07-4D6D310C9A7C}|GerirP\u00E1gina.vbproj|H:\\Projectos_Studio_2022\\BDFatima\\GerirP\u00E1gina\\frmgerirdadosp\u00E1gina.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{47E28669-71A8-422C-BD07-4D6D310C9A7C}|GerirP\u00E1gina.vbproj|solutionrelative:frmgerirdadosp\u00E1gina.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmGerirDadosP\u00E1gina.vb",
+              "DocumentMoniker": "H:\\Projectos_Studio_2022\\BDFatima\\GerirP\u00E1gina\\frmGerirDadosP\u00E1gina.vb",
+              "RelativeDocumentMoniker": "frmGerirDadosP\u00E1gina.vb",
+              "ToolTip": "H:\\Projectos_Studio_2022\\BDFatima\\GerirP\u00E1gina\\frmGerirDadosP\u00E1gina.vb",
+              "RelativeToolTip": "frmGerirDadosP\u00E1gina.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-14T23:28:55.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmGerirDadosP\u00E1gina.vb [Design]",
+              "DocumentMoniker": "H:\\Projectos_Studio_2022\\BDFatima\\GerirP\u00E1gina\\frmGerirDadosP\u00E1gina.vb",
+              "RelativeDocumentMoniker": "frmGerirDadosP\u00E1gina.vb",
+              "ToolTip": "H:\\Projectos_Studio_2022\\BDFatima\\GerirP\u00E1gina\\frmGerirDadosP\u00E1gina.vb [Design]",
+              "RelativeToolTip": "frmGerirDadosP\u00E1gina.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-14T23:28:53.794Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
